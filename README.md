@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Muhammad+Bilal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Muhammad+Bilal+Ellahi)](https://git.io/typing-svg)
 
 
 <h2>Contact Me</h2>
