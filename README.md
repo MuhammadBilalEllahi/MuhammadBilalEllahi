@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![docker](https://img.shields.io/badge/-docker-000?&style=for-the-badge&logo=docker)
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
 ![obsidian](https://img.shields.io/badge/-obsidian-000?&style=for-the-badge&logo=obsidian) -->
-
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadbilalellahi&label=Profile%20views&color=0e75b6&style=flat" /> </p>-->
 
 <h2>Contact Me</h2>
 <div align="center">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="mailto:bilalillahi25@gmail.com">
-    <img src="https://camo.githubusercontent.com/88c919ff67666d749e5dabae3d863769320aa8dd0a5bcb52528ce0ae41b7080e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" width="82px" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/discord-red?style=for-the-badge&logo=gmail&logoColor=white" width="105px" alt="Mail Badge"/>
   </a>
   
 <a href="https://discordapp.com/users/bilal._.illahi">
