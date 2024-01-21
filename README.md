@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45" height="45"/>
 <!-- <img src="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/6337e9ce-7b33-430a-8c83-4461a3bdfa58"  width="45" height="45" /> -->
 
-<img src="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/a6f76a50-cbe4-42cb-983c-5a0ebfcc858e" style="pointer-events: none;" width="45" height="45" />
+<img src="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/a6f76a50-cbe4-42cb-983c-5a0ebfcc858e"  width="45" height="45" />
 
 
 
