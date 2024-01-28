@@ -109,8 +109,22 @@ Here are some ideas to get you started:
 <!-- <img src="https://geokaza.crd.co/assets/images/gallery03/e0aadd00_original.png?v=b78ff34a" alt="flask" width="45" height="45"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" />
 <img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" alt="javafx" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="javafx" width="45" height="45" />
+<img src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" alt="javafx" width="45" height="45" />
+
+
 </p>
 <br>
 <p width="100%" align="center"> <img align="center" alt="GIF" src="https://github.com/developedbysm/developedbysm/blob/main/coding-freak.gif?raw=true" width="500" height="320" /></p>
 
-<!--<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" theme=tokyonight width="100%"/>-->
+
+<!-- <p align="center">
+  <a href="https://tailwindcss.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
+      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
+    </picture>
+  </a>
+</p>
+-->
