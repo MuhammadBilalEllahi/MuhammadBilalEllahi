@@ -110,15 +110,23 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" />
 <img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" alt="javafx" width="45" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="javafx" width="45" height="45" />
-<img src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" alt="javafx" width="45" height="45" />
+<!--<img src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" alt="astro" width="45" height="45" />-->
 
+<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/305a66f7-66b1-40fd-b9e5-20e6e63a2962">
+      <img alt="" src="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/305a66f7-66b1-40fd-b9e5-20e6e63a2962" width="45" height="45" style="max-width: 100%;">
+    </picture>
 
+    
 </p>
+
 <br>
 <p width="100%" align="center"> <img align="center" alt="GIF" src="https://github.com/developedbysm/developedbysm/blob/main/coding-freak.gif?raw=true" width="500" height="320" /></p>
 
 
-<!-- <p align="center">
+<!-- 
+<p align="center">
   <a href="https://tailwindcss.com" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
