@@ -113,9 +113,9 @@ Here are some ideas to get you started:
 <!--<img src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" alt="astro" width="45" height="45" />-->
 
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/305a66f7-66b1-40fd-b9e5-20e6e63a2962">
-      <img alt="" src="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/305a66f7-66b1-40fd-b9e5-20e6e63a2962" width="45" height="45" style="max-width: 100%;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuhammadBilalEllahi/MuhammadBilalEllahi/assets/67937279/305a66f7-66b1-40fd-b9e5-20e6e63a2962">
+      <source media="(prefers-color-scheme: light)" srcset="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png">
+      <img alt="" src="https://seeklogo.com/images/A/astro-icon-logo-44253BACEE-seeklogo.com.png" width="45" height="45" style="max-width: 100%;">
     </picture>
 
     
