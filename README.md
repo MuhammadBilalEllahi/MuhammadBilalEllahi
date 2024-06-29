@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div align="center">
 <div>
   </a>
-  <a href="https://www.developer.bilalellahi.com/">
+  <a href="https://developer.bilalellahi.com/">
     <img src="https://img.shields.io/badge/Website-M_Bilal_Ellahi-green" width="160px" alt="Mail Badge"/>
   </a>
   <a href="https://www.bilalellahi.com/">
